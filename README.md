@@ -4,7 +4,7 @@
 
 <h3>Requirement:</h3>
 
-Please make sure you have the below environment set up.
+Please make sure you have the below environment set up.  
 PHP version 7 or higher
 Mysql or similar db
 Apache or a all included 
@@ -19,8 +19,8 @@ For front end you will have to edit the apli url to where you host in the js/mai
 <h2>API End Points : </h2>
 <h3>GET users/</h2> 
 Get all users
-<b>Response</b>
-Sample response
+<b>Response</b>  
+Sample response  
 
 [
     {
