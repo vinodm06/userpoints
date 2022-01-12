@@ -4,23 +4,23 @@
 
 <h3>Requirement:</h3>
 
-Please make sure you have the below environment set up.  
-PHP version 7 or higher
-Mysql or similar db
-Apache or a all included 
+Please make sure you have the below environment set up.  <br />
+PHP version 7 or higher<br />
+Mysql or similar db<br />
 
-Clone the files to the folder in your server.
-Configure the db in config/Database.php
-Run the db.sql included
-Now you are ready to use the api.
 
-For front end you will have to edit the apli url to where you host in the js/main.js file.
+Clone the files to the folder in your server.<br />
+Configure the db in config/Database.php<br />
+Run the db.sql included<br />
+Now you are ready to use the api.<br />
+
+For front end you will have to edit the apli url to where you host in the js/main.js file.<br />
 
 <h2>API End Points : </h2><br />
 <h3>GET users/</h2> <br />
 Get all users
 <b>Response</b>  <br />
-Sample response  
+Sample response  <br />
 
 [
     {
